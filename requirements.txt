@@ -9,3 +9,4 @@ scikit-learn
 openpyxl
 jinja2
 statsmodels
+streamlit

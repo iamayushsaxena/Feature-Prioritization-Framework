@@ -297,8 +297,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Ayush Saxena**
-- LinkedIn: [Ayush Saxena](https://www.linkedin.com/in/ayushsaxena8880/)
-- GitHub: [iamAyushSaxena](https://github.com/iamAyushSaxena)
+- LinkedIn: [Ayush Saxena](https://www.linkedin.com/in/iamayushsaxena/)
+- GitHub: [iamayushsaxena](https://github.com/iamayushsaxena)
 - Email: aysaxena8880@gmail.com
 
 ---
@@ -320,6 +320,4 @@ For questions or issues:
 
 ---
 
-
 **⭐ If this project helped you, please star the repository!**
-
